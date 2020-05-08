@@ -73,7 +73,7 @@ body{
 
 article{
   padding:0 10px 20px 10px;
-  border:solid 1px #C8C8C8;
+  border-bottom:solid 1px #C8C8C8;
 }
 .header{
   padding:20px 0 20px 0;
